@@ -1,0 +1,26 @@
+{
+  "name": "headlines",
+  "version": "1.0.0",
+  "description": "Grab headlines from my favorite blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilsilentii/coding-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilsilentii/coding-challenge/issues"
+  },
+  "homepage": "https://github.com/ilsilentii/coding-challenge#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "fs": "0.0.1-security",
+    "puppeteer": "^10.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
